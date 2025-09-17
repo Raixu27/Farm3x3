@@ -1,13 +1,7 @@
-# Farm3x3
-Farm 3x3 is a data pack that harvests crops in a 3x3 square if you hold a hoe.
+# Farm3x3 2.0.x
 
-## Mod compatibility
-- [Farmer's Delight](https://github.com/RaixuStuff/Farm3x3-Farmers-Delight-Compatibility/tree/main)
-- If you want any other mods to be supported, create an issue on GitHub or join my discord server and let me know!
-- Feel free to make your own compatibility mods without asking for my permission.
-
-## Notes
-- The data pack/mod will not work in creative mode.
+## Branch Info
+This is the branch for versions 2.0.x, this is not the latest stable version and will likely not receive many updates.
 
 ## Links
 <a href="https://modrinth.com/datapack/farm-3x3"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/available/modrinth_64h.png" alt="Modrinth"></a>
