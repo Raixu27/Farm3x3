@@ -1,4 +1,4 @@
-tellraw @a "Sorry to see you uninstall Farm3x3! All you have to do now is remove the data pack/mod file and reload. I'd love to hear why you removed the data pack, if you want to let me know then do so in my Discord server; https://discord.com/invite/4RWVg8MgAj"
+tellraw @s "Sorry to see you uninstall Farm3x3! All you have to do now is remove the data pack/mod file and reload. I'd love to hear why you removed the data pack, if you want to let me know then do so in my Discord server; https://discord.com/invite/4RWVg8MgAj"
 
 # Remove scoreboard entries
 scoreboard objectives remove farm3x3_wheat_Mined
