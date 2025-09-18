@@ -1,7 +1,8 @@
 # Farm3x3 2.0.x
 
 ## Branch Info
-This is the branch for versions 2.0.x, this is not the latest stable version and will likely not receive many updates.
+This is the branch for versions 2.0.x, this is not the latest stable version and will likely not receive any updates.
+Superseded by <a href="https://github.com/RaixuStuff/Farm3x3/tree/2.1.x">2.1.x</a>.
 
 ## Links
 <a href="https://modrinth.com/datapack/farm-3x3"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/available/modrinth_64h.png" alt="Modrinth"></a>
