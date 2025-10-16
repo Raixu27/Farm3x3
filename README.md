@@ -9,7 +9,7 @@ Farm 3x3 is a data pack that harvests crops in a 3x3 square if you hold a hoe.
 
 ## Notes
 - The data pack/mod will not work in creative mode.
-- If you want to also replant your crops as you harvest them, hold the hoe in your offhand.
+- If you want to also replant your crops as you harvest them, hold the hoe in your offhand. (in Minecraft 1.21+, Farm 3x3 2.2.0+)
 
 ## Links
 <a href="https://modrinth.com/datapack/farm-3x3"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/available/modrinth_64h.png" alt="Modrinth"></a>
