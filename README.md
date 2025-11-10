@@ -2,7 +2,7 @@
 Farm 3x3 is a data pack that harvests crops in a 3x3 square if you hold a hoe.
 
 ## Mod compatibility
-- [Farmer's Delight](https://github.com/RaixuStuff/Farm3x3-Farmers-Delight-Compatibility/tree/main)
+- [Farmer's Delight](https://github.com/Raixu27/Farm3x3-Farmers-Delight-Compatibility/tree/main)
 - If you want any other mods to be supported, create an issue on GitHub or join my discord server and let me know!
 - Feel free to make your own compatibility mods without asking for my permission.
 - Any hoe from any mod _should_ work correctly in versions 2.1.0 and above, compatibility mods only provide support for modded crops.
