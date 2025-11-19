@@ -1,7 +1,7 @@
 {
     "pack": {
-        "pack_format": 71,
-		"supported_formats": {"min_inclusive": 71, "max_inclusive": 2147483647},
+        "pack_format": 48,
+		"supported_formats": {"min_inclusive": 48, "max_inclusive": 61},
         "description": "Harvest all crops in a 3x3 block area! Version 2.2.1" 
     }
 }
