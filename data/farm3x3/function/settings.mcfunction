@@ -8,7 +8,7 @@ tellraw @s {"text":"My Github profile","color":"#273f4c","underlined":true,"clic
 tellraw @s " "
 
 # actual config
-tellraw @s "Configuration for Farm3x3 version 2.3.1_MC-1.21.5+"
+tellraw @s "Configuration for Farm3x3 version 2.3.2_MC-26.3+"
 tellraw @s " "
 tellraw @s {"text":"[❌ Remove all Farm3x3 data. Run this before deleting the data pack.]","color":"red","click_event":{"action":"run_command","command":"/function farm3x3:config/uninstall"}}
 tellraw @s {"text":"[❌ Remove data from official Farm3x3 addons/compatibility mods.]","color":"gold","click_event":{"action":"run_command","command":"/function farm3x3:config/uninstall_addons"}}
