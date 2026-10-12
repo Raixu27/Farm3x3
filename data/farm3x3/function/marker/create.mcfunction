@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~0.5 ~0.5 unless entity @n[type=marker,tag=farm3x3-mature,distance=..0.5] run summon minecraft:marker ~ ~ ~ {Tags:["farm3x3-mature"]}

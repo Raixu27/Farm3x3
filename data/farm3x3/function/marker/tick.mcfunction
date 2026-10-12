@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ #farm3x3:age_7_crops[age=7] unless block ~ ~ ~ #farm3x3:age_3_crops[age=3] run kill @s
