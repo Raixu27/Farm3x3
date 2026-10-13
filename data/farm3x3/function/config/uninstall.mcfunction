@@ -1,4 +1,7 @@
 # Remove scoreboard entries
+scoreboard objectives remove farm3x3-raycast-step dummy
+scoreboard objectives remove farm3x3-raycast-done dummy
+
 scoreboard objectives remove farm3x3-wheat-mined
 scoreboard objectives remove farm3x3-potatoes-mined
 scoreboard objectives remove farm3x3-carrots-mined

@@ -1,4 +1,5 @@
-scoreboard objectives add farm3x3-raycast dummy
+scoreboard objectives add farm3x3-raycast-step dummy
+scoreboard objectives add farm3x3-raycast-done dummy
 
 scoreboard objectives add farm3x3-wheat-mined minecraft.mined:minecraft.wheat
 scoreboard objectives add farm3x3-potatoes-mined minecraft.mined:minecraft.potatoes

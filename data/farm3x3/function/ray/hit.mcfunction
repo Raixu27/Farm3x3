@@ -1,4 +1,4 @@
-scoreboard players set .done farm3x3-raycast 1
+scoreboard players set @s farm3x3-raycast-done 1
 
 # Oh. My. God.
 # somebody please send a pr if you find a nicer way to do this
