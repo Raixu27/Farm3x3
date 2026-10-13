@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#crops",
-        "minecraft:nether_wart"
+        "#farm3x3:age_3_crops",
+        "#farm3x3:age_7_crops"
     ]
 }
