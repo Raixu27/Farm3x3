@@ -1,6 +1,6 @@
 # Remove scoreboard entries
-scoreboard objectives remove farm3x3-raycast-step dummy
-scoreboard objectives remove farm3x3-raycast-done dummy
+scoreboard objectives remove farm3x3-raycast-step
+scoreboard objectives remove farm3x3-raycast-done
 
 scoreboard objectives remove farm3x3-wheat-mined
 scoreboard objectives remove farm3x3-potatoes-mined
@@ -10,6 +10,9 @@ scoreboard objectives remove farm3x3-nether_wart-mined
 
 # Remove data storage
 data remove storage farm3x3:temp_replant_data Crop
+
+# Remove markers
+execute as @e[type=marker,tag=farm3x3-mature] run kill @s
 
 # Run chat commands
 execute as @s run function farm3x3:config/clear_chat
