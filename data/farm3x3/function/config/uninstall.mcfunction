@@ -11,14 +11,14 @@ scoreboard objectives remove farm3x3-nether_wart-mined
 # Remove data storage
 data remove storage farm3x3:temp_replant_data Crop
 
-# Remove markers
-execute as @e[type=marker,tag=farm3x3-mature] run kill @s
-
 # Run chat commands
 execute as @s run function farm3x3:config/clear_chat
 
+# Remove markers
+execute as @e[type=marker,tag=farm3x3-mature] run kill @s
+
 tellraw @s "All Farm3x3 data was successfully removed. You may now delete the data pack, or if you installed it as a mod, remove the mod."
 tellraw @s " "
-tellraw @s {"text":"[Remove data from official Farm3x3 addons/compatibility mods.]","color":"gold","click_event":{"action":"run_command","command":"/function farm3x3:config/uninstall_addons"}}
-tellraw @s {"text":"[Remove legacy Farm3x3 scoreboard entries. Run this if you installed Farm3x3 before version 2.3.0]","color":"blue","click_event":{"action":"run_command","command":"/function farm3x3:config/legacy_uninstall"}}
-tellraw @s {"text":"[← Go back to the configuration menu]","color":"aqua","click_event":{"action":"run_command","command":"/function farm3x3:settings"}}
+tellraw @s {"text":"[Remove data from official Farm3x3 addons/compatibility mods.]","color":"gold","clickEvent":{"action":"run_command","value":"/function farm3x3:config/uninstall_addons"}}
+tellraw @s {"text":"[Remove legacy Farm3x3 scoreboard entries. Run this if you installed Farm3x3 before version 2.3.0]","color":"blue","clickEvent":{"action":"run_command","value":"/function farm3x3:config/legacy_uninstall"}}
+tellraw @s {"text":"[← Go back to the configuration menu]","color":"aqua","clickEvent":{"action":"run_command","value":"/function farm3x3:settings"}}
