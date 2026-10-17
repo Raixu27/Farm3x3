@@ -7,4 +7,4 @@ scoreboard objectives add farm3x3-carrots-mined minecraft.mined:minecraft.carrot
 scoreboard objectives add farm3x3-beetroots-mined minecraft.mined:minecraft.beetroots
 scoreboard objectives add farm3x3-nether_wart-mined minecraft.mined:minecraft.nether_wart
 
-execute as @e[type=marker,tag=farm3x3-mature] run kill @s
+kill @e[type=marker,tag=farm3x3-mature]
